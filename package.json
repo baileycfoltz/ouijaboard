@@ -1,0 +1,17 @@
+{
+  "name": "eroft-final",
+  "version": "1.0.0",
+  "description": "eroft final",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Bailey Foltz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "save": "^2.9.0",
+    "socket.io": "^4.5.4"
+  }
+}
